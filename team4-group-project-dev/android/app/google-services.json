@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293168584491",
+    "project_id": "finalproject-38566",
+    "storage_bucket": "finalproject-38566.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293168584491:android:ea0db88b153296325b576e",
+        "android_client_info": {
+          "package_name": "edu.umn.d.cs3541.team4.GetInGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkg7sUdr6IIVnW3qD88PXRlXFoHl2tJUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
